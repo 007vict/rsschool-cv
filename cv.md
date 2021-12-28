@@ -13,3 +13,15 @@
 *[Linkedin](https://www.linkedin.com/in/supruniuk-viktar-657008226/)* |
 
 **Website:** [pizza](https://pizzareactt.herokuapp.com/)
+
+## Skills: ##
+
+* JavaScript
+* HTML
+* CSS
+* React
+* Redux
+* Git
+* Linux
+* Node
+
