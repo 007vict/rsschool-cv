@@ -41,18 +41,18 @@
     - [My certificate](https://stepik.org/cert/154816)
     - ![Certificate](https://stepik.org/certificate/d6320f52b70801cb09c3aa1ad7975f5efb9dd67d.png?resolution=low)
 
-* #### **React Samurai** ####
+* #### **React Samurai(JS,React,Redux)** ####
     - *May 2021 - Aug 2021*
     - I learn to develop on this [Youtube channel](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
     - [My code Github](https://github.com/007vict/it-kamasu)
 
-* #### **Archakov** ####
+* #### **Archakov(JS,React,Redux)** ####
     - *Aug 2021 - Sep 2021*
     - I learn to develop on this [Youtube channel](https://www.youtube.com/playlist?list=PL0FGkDGJQjJFMRmP7wZ771m1Nx-m2_qXq)
     - [My code Github](https://github.com/007vict/react_pizza)
     - [Website](https://pizzareactt.herokuapp.com/)
 
-* #### **Muraview** ####
+* #### **Muraview(JS,React,Redux)** ####
     - *Nov 2021 - Dec 2021*
     - I learn to develop on this [Youtube channel](https://www.youtube.com/playlist?list=PLtL3lrXPn2rUiIj46eozwWn9P2x8RoOiR)
     - [My code Github](https://github.com/007vict/reactMuraview)
