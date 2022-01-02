@@ -15,10 +15,14 @@ aside {
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-  background-color: rgb(34, 212, 212);
+  background-color: rgb(34 105 212);
   box-sizing: border-box;
-  width: 20%;
-  padding: 10px 45px
+  width: 260px;
+  padding: 10px 45px;
+}
+
+aside h3 {
+  font-size: 31px;
 }
 
 aside .foto-profile img {
@@ -28,6 +32,13 @@ aside .foto-profile img {
 aside .desc {
   display: flex;
   flex-direction: column;
+  color: #fff;
+  box-sizing: border-box;
+  margin-top: 20px;
+}
+
+aside .desc .personal {
+  margin-top: 10px;
 }
 
 
