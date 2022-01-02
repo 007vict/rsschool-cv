@@ -44,7 +44,7 @@ aside .desc .personal {
 
 
 section {
-  background-color: rgb(67, 53, 131);
+  background-color: rgb(53 102 131);
   width: 100%;
   padding: 5px 50px;
   color: #fff;
@@ -56,12 +56,23 @@ section h1 {
   margin-bottom: 50px;
 }
 
-section .skills h5 {
+section .skills h5,
+section .courses h5 {
   font-size: 30px;
   margin-top: 15px;
 }
 
-section .skills ul {
+section .skills ul,
+section .courses ul {
   margin-top: 10px;
   padding: 0px 50px;
+}
+
+section .courses h3 {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+section .cours_desc {
+  margin-top: 20px;
 }
