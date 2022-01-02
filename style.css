@@ -14,10 +14,20 @@ aside {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  align-items: center;
+  align-items: flex-start;
   background-color: rgb(34, 212, 212);
   box-sizing: border-box;
-  width: 30%;
+  width: 20%;
+  padding: 10px 45px
+}
+
+aside .foto-profile img {
+  border-radius: 20px;
+}
+
+aside .desc {
+  display: flex;
+  flex-direction: column;
 }
 
 
