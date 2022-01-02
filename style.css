@@ -1,0 +1,30 @@
+* {
+ margin: 0;
+ padding: 0;
+}
+
+.container {
+ display: flex;
+ flex-direction: row;
+ width: 100%;
+ min-height: 700px;
+}
+
+aside {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: rgb(34, 212, 212);
+  box-sizing: border-box;
+  width: 30%;
+}
+
+
+
+section {
+  background-color: rgb(67, 53, 131);
+  width: 70%;
+  /* min-height: 100%; */
+}
+
