@@ -1,0 +1,78 @@
+* {
+ margin: 0;
+ padding: 0;
+}
+
+.container {
+ display: flex;
+ flex-direction: row;
+ width: 100%;
+ min-height: 700px;
+}
+
+aside {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: rgb(34 105 212);
+  box-sizing: border-box;
+  width: 260px;
+  padding: 10px 45px;
+}
+
+aside h3 {
+  font-size: 31px;
+}
+
+aside .foto-profile img {
+  border-radius: 20px;
+}
+
+aside .desc {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  box-sizing: border-box;
+  margin-top: 20px;
+}
+
+aside .desc .personal {
+  margin-top: 10px;
+}
+
+
+
+section {
+  background-color: rgb(53 102 131);
+  width: 100%;
+  padding: 5px 50px;
+  color: #fff;
+}
+
+section h1 {
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 50px;
+}
+
+section .skills h5,
+section .courses h5 {
+  font-size: 30px;
+  margin-top: 15px;
+}
+
+section .skills ul,
+section .courses ul {
+  margin-top: 10px;
+  padding: 0px 50px;
+}
+
+section .courses h3 {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+section .cours_desc {
+  margin-top: 20px;
+}
