@@ -76,3 +76,7 @@ section .courses h3 {
 section .cours_desc {
   margin-top: 20px;
 }
+
+.certificate {
+  width: 50%;
+}
